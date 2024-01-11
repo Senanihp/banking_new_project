@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Banking_mini_project">
+<test name="BankingApp test">
+<classes>
+<parameter name="Browser" value="chrome">
+</parameter>
+<class name="com.inetbaking.testcases.TC_LoginTest_001">  
+</class></classes>
+</test>
+</suite>
